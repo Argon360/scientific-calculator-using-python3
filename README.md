@@ -1,9 +1,9 @@
-# scientific calculator using python3
-This code is used to create a scientific calculator using python 3 with GUI enabled 
+#Scintific calculator using python3
+This is the code to create a scientific calculator using python3 with a GUI interface
 
 
 
-You can download the code or use the text below to learn from the code 
+
 
 
 from tkinter import *
